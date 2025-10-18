@@ -1,5 +1,9 @@
 # Power BI Live Weather Dashboard
 
+<p align="center">
+    <img src="demo.gif" alt="Demo of the dashboard" />
+</p>
+
 This repository contains a Power BI project for a dynamic, real-time weather dashboard. The report connects to a live weather API to fetch and display current weather conditions, a 7-day forecast, and detailed air quality information for multiple cities.
 
 ## ✨ Dashboard Features
