@@ -44,6 +44,6 @@ This repository contains a Power BI project for a dynamic, real-time weather das
 4.  Click **Close & Apply** in the Power Query Editor.
 5.  Click **Refresh** on the Home ribbon in Power BI Desktop to fetch the latest data.
 
-## 📺 Project Reference:
+## 📺 Project Reference
 
 [The-Developer-BI](https://www.youtube.com/@The-Developer-BI)
